@@ -23,7 +23,7 @@ While the base `banner` scanning mode utilizes native Python standard modules, a
 
 1. Clone this repository into your chosen workspace folder:
 ```bash
-git clone https://github.com
+git clone https://github.com/mralex398-sketch/
 cd Pymap
 ```
 
